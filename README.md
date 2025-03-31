@@ -371,7 +371,7 @@ If you find this work useful, welcome to cite us.
 }
 ```
 ## Acknowledge
-We would like to express our gratitude to Qi‘ang Hu for his contribution to this website, and also express our gratitude to all team members.
+We would like to express our gratitude to [Qi‘ang Hu](2252974@tongji.edu.cn) for his contribution to this website, and also express our gratitude to all team members.
 
 <!-- omit in toc -->
 ## ⭐ Star History
