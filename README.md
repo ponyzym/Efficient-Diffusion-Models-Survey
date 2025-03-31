@@ -372,6 +372,8 @@ If you find this work useful, welcome to cite us.
   year={2024}
 }
 ```
+## Acknowledge
+We would like to express our gratitude to Qi‘ang Hu for his contribution to this website, and also express our gratitude to all team members.
 
 <!-- omit in toc -->
 ## ⭐ Star History
