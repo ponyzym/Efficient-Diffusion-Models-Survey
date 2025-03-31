@@ -351,7 +351,7 @@ Parallelizing diffusion models by asynchronous denoising [[Paper]](https://arxiv
 
 ## Part 7: Discussion and Conclusion
 * A Survey on Mixture of Experts [[Paper]](https://arxiv.org/abs/2407.06204) ![](https://img.shields.io/badge/arxiv-2024.07-red)
-* The evolution of mixture of experts: A survey from basics to breakthroughs ![](https://towardsai.net/p/machine-learning/the-evolution-of-mixture-of-experts-from-basics-to-breakthroughs#:~:text=This%20recently%20released%20study%20is%20a%20comprehensive%20survey,%28MoE%29%20models%20from%20foundational%20concepts%20to%20cutting-edge%20innovations.) ![](https://img.shields.io/badge/arxiv-2024.08-red)
+* The evolution of mixture of experts: A survey from basics to breakthroughs [[Paper]](https://www.preprints.org/frontend/manuscript/d1a82109f0f0d0984a6ae85228ed630e/download_pub) ![](https://towardsai.net/p/machine-learning/the-evolution-of-mixture-of-experts-from-basics-to-breakthroughs#:~:text=This%20recently%20released%20study%20is%20a%20comprehensive%20survey,%28MoE%29%20models%20from%20foundational%20concepts%20to%20cutting-edge%20innovations.) ![](https://img.shields.io/badge/arxiv-2024.08-red)
 * Dynamic Diffusion Transformer [[Paper]](https://arxiv.org/abs/2410.03456) ![](https://img.shields.io/badge/arxiv-2024.10-red)
 * Mixture of Efficient Diffusion Experts Through Automatic Interval and Sub-Network Selection [[Paper]](https://arxiv.org/abs/2409.15557) ![](https://img.shields.io/badge/arxiv-2024.09-red)
 * Fast inference from
@@ -371,7 +371,7 @@ If you find this work useful, welcome to cite us.
 }
 ```
 ## Acknowledge
-We would like to express our gratitude to [Qi‘ang Hu]() (2252974@tongji.edu.cn) for his contribution to this website, and also express our gratitude to all team members.
+We would like to express our gratitude to Qi‘ang Hu (2252974@tongji.edu.cn) for his contribution to this website, and also express our gratitude to all team members.
 
 <!-- omit in toc -->
 ## ⭐ Star History
