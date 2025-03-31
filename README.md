@@ -1,8 +1,8 @@
 # Efficient-Diffusion-Models
 
 [![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](https://arxiv.org/abs/2410.11795) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Xfbhff/Efficient-Diffusion-Models.git)
-[![Last Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-System2-Reasoning-LLM)](https://github.com/zzli2022/System2-Reasoning-LLM)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ponyzym/Efficient-Diffusion-Models-Survey.git)
+[![Last Commit](https://img.shields.io/github/last-commit/ponyzym/Efficient-Diffusion-Models-Survey)](https://github.com/ponyzym/Efficient-Diffusion-Models-Survey)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 ![image](./assets/cover.jpg)
 <!-- omit in toc -->
