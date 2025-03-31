@@ -344,16 +344,14 @@ probabilistic models [[Paper]](https://d1wqtxts1xzle7.cloudfront.net/85545733/22
 Instant text-to-image generation on mobile devices [[Paper]](https://arxiv.org/abs/2311.16567) ![](https://img.shields.io/badge/arxiv-2023.11-red)
 * Distrifusion: Distributed parallel inference for high resolution diffusion models[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_DistriFusion_Distributed_Parallel_Inference_for_High-Resolution_Diffusion_Models_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/CVPR-2024-blue)
 * Pipefusion: Displaced
-patch pipeline parallelism for inference of diffusion transformer models[[Paper]](https://arxiv.org/abs/2405.
-14430) ![](https://img.shields.io/badge/arxiv-2024.05-red)
+patch pipeline parallelism for inference of diffusion transformer models[[Paper]](https://arxiv.org/abs/2405.14430) ![](https://img.shields.io/badge/arxiv-2024.05-red)
 * Dragondiffusion: Enabling drag-style manipulation on diffusion models [[Paper]](https://arxiv.org/abs/2307.02421) ![](https://img.shields.io/badge/arXiv-2023.07-red)
 * Asyncdiff:
 Parallelizing diffusion models by asynchronous denoising [[Paper]](https://arxiv.org/abs/2406.06911) ![](https://img.shields.io/badge/arxiv-2024.06-red)
 
 ## Part 7: Discussion and Conclusion
 * A Survey on Mixture of Experts [[Paper]](https://arxiv.org/abs/2407.06204) ![](https://img.shields.io/badge/arxiv-2024.07-red)
-* The evolution of
-mixture of experts: A survey from basics to breakthroughs [[Paper]](https://towardsai.net/p/machine-learning/the-evolution-of-mixture-of-experts-from-basics-to-breakthroughs#:~:text=This%20recently%20released%20study%20is%20a%20comprehensive%20survey,%28MoE%29%20models%20from%20foundational%20concepts%20to%20cutting-edge%20innovations.) ![](https://img.shields.io/badge/2024-blue)
+* The evolution of mixture of experts: A survey from basics to breakthroughs ![](https://towardsai.net/p/machine-learning/the-evolution-of-mixture-of-experts-from-basics-to-breakthroughs#:~:text=This%20recently%20released%20study%20is%20a%20comprehensive%20survey,%28MoE%29%20models%20from%20foundational%20concepts%20to%20cutting-edge%20innovations.) ![](https://img.shields.io/badge/2024-blue)
 * Dynamic Diffusion Transformer [[Paper]](https://arxiv.org/abs/2410.03456) ![](https://img.shields.io/badge/arxiv-2024.10-red)
 * Mixture of Efficient Diffusion Experts Through Automatic Interval and Sub-Network Selection [[Paper]](https://arxiv.org/abs/2409.15557) ![](https://img.shields.io/badge/arxiv-2024.09-red)
 * Fast inference from
